@@ -4,3 +4,4 @@
 - If you have any recommendations on how to improve this project or general questions about licensing for open source use,  please send an email to gymayo7393@eagle.fgcu.edu.
 
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8508/badge)](https://www.bestpractices.dev/projects/8508)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8508/badge)](https://www.bestpractices.dev/projects/8508)
