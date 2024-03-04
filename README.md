@@ -3,5 +3,4 @@
 - Feel free to modify the code in order to improve effeciency, readability, while adhering to the PEP 8 standard. When I wrote wrote this program I had limited knowlege of Python and best coding practices so there is definitely room for improvement.
 - If you have any recommendations on how to improve this project or general questions about licensing for open source use,  please send an email to gymayo7393@eagle.fgcu.edu.
 
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8508/badge)](https://www.bestpractices.dev/projects/8508)
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/gymayo/Integration_Project/badge)](https://securityscorecards.dev/viewer/?uri=github.com/gymayo/Integration_Project)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8508/badge)](https://www.bestpractices.dev/projects/8508)[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/gymayo/Integration_Project/badge)](https://securityscorecards.dev/viewer/?uri=github.com/gymayo/Integration_Project)
